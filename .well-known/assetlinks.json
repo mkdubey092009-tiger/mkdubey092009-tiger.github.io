@@ -1,0 +1,15 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mkdubey092009_tiger.twa",
+        "sha256_cert_fingerprints": ["53:8D:CD:60:5D:6D:7F:18:AE:D4:BC:31:A8:AF:1C:40:B7:E0:C8:24:B4:D7:94:B8:D4:95:37:3F:75:63:B7:D7"]
+      }
+    }]
+
+
+
+
+
+
+
